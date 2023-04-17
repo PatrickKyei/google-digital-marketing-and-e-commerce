@@ -2,6 +2,9 @@
 
 <br>
 
+![cert](patrick-kyei-digital-marketing.jpeg)
+
+
 - This repository is written for reference and self-documentation purposes
 
 - Feeel free to contribute

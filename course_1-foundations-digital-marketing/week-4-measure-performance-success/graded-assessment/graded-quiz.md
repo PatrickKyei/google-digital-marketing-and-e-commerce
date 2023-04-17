@@ -129,7 +129,7 @@ Which of the following are the main components of a data story? Select three.
 
 <br>
 
-### Questions
+### Question 9
 
 What are the three characteristics of a well-structured narrative? Select all that apply.
 
@@ -143,7 +143,7 @@ What are the three characteristics of a well-structured narrative? Select all th
 
 <br>
 
-### Question 
+### Question 10
 
 In data storytelling, how do visualizations help an audience understand what is happening in the narrative?
 
